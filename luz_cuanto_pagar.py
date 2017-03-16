@@ -28,7 +28,7 @@ def luz(medicion):
     print 'IVA:', iva
     #print(iva)
     print 'SubTotal:', subtotal
-    #Calucula e imprime el impuesto de alumbrado publico
+    #Calcula e imprime el impuesto de alumbrado publico
     der_alum_publ = costo_energia * .1
     print 'DerechoAlumbradoPublico:', der_alum_publ
     #Calcular el total
